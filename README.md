@@ -5,7 +5,7 @@
 
 An interactive, real-time satellite monitoring system quantifying the coastal morphological changes of Saint Martin's Island, Bangladesh. Powered by **Google Earth Engine (GEE)** and **NASA Landsat** archival data (2000-2024).
 
-🔗 **Live Dashboard:** [CLICK HERE TO VIEW APP]([https://gen-lang-client-0049500756.projects.earthengine.app/view/saint-martin-coastal-analytics])
+🔗 **Live Dashboard:** ([https://gen-lang-client-0049500756.projects.earthengine.app/view/saint-martin-coastal-analytics])
 
 ---
 
