@@ -47,7 +47,7 @@ The analysis reveals a persistent negative trend in the island's sub-aerial land
     *(The script will generate the Erosion Map, Accuracy Metrics, and the 2050 Projection Chart).*
 
 ## 👨‍💻 Author
-**Md Noushad Jahan Ramim** *Researcher & AI Developer* [Your LinkedIn Profile Link] | [Portfolio Link]
+**Md Noushad Jahan Ramim** *Researcher & AI Developer*
 
 ---
 *This work serves as a draft for a Q1 journal submission, focusing on applied remote sensing for climate change adaptation.*
