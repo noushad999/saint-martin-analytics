@@ -55,7 +55,7 @@ To replicate this study or verify the data:
 4. Run the script to generate the timelapse and analytics.
 
 ## 👨‍💻 Author & Citation
-**Md Noushad Jahan Ramim** *AI Developer & Researcher* [Your LinkedIn Profile Link]
+**Md Noushad Jahan Ramim** *AI Developer & Researcher* 
 
 If you use this code or data for your research, please cite this repository.
 
